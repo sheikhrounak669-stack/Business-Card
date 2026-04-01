@@ -1,0 +1,36 @@
+.card {
+    border-right: 0px;
+    border-left: 0px;
+    border-top: 0px;
+    border-bottom: 5px;
+    border-style: solid;
+    border-color: #9A8C98;
+    margin: 80px auto 0 auto;
+    padding: 28px 20px 28px 20px;
+    display: flex;
+    justify-content: center;
+    width: 560px;
+    background-color: #22223B;
+}
+
+.img_div {
+    margin-right: 50px;
+}
+.personel-info {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 50px;
+    text-align: center;
+}
+.name, .address, .post {
+    color: #F2E9E4;
+}
+.pic {
+    
+    width: 180px;
+    border-radius: 50%;
+}
+
+body {
+    background-color: #4a4e69;
+}
+
